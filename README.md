@@ -74,7 +74,7 @@
   <h3 align="center">📫 Contact Me</h3>
   <p align="center">
     <b>Email:</b> poojashree.veccse@gmail.com<br>
-    <b>Phone:</b> +91 8072530736<br>
+    
     <b>Location:</b> Chennai, India
   </p>
   <br>
