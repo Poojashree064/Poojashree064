@@ -75,7 +75,7 @@
   <p align="center">
     <b>Email:</b> poojashree.veccse@gmail.com<br>
     
-    <b>Location:</b> Chennai, India
+    
   </p>
   <br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+connect+and+collaborate!&center=true&size=22&width=500&height=50&duration=4000&pause=1000&color=6A5ACD">
